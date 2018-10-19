@@ -38,3 +38,4 @@ $products = [
 
 ];
 
+//product type
