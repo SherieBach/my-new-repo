@@ -1,0 +1,77 @@
+body {
+    margin: 15px;
+    background-color: lightslategrey;
+
+}
+
+footer {
+
+    height: 20px;
+    background-color: dimgrey;
+}
+
+.navbar {
+
+    font-family: 'Permanent Marker', cursive;
+}
+
+h2 {
+    font-family: 'Permanent Marker', cursive;
+
+}
+.jumbotron {
+
+    font-family: 'Permanent Marker', cursive;
+    box-shadow: 2px 2px 12px 0 rgba(0, 0, 80, 0.2);
+
+}
+
+
+.productForm {
+
+    font-family: 'Permanent Marker', cursive;
+    box-shadow: 2px 2px 12px 0 rgba(0, 0, 80, 0.2);
+
+
+}
+
+.productBox {
+    background-color: #e9ecef;
+}
+
+
+.checkOutcart {
+
+    font-family: 'Oswald', sans-serif;
+    padding: 1rem;
+    box-shadow: 2px 2px 12px 0 rgba(0, 0, 80, 0.2);
+    color: rgba(0, 0, 80, 1);
+    width: 50%;
+    margin: 0 auto 2rem auto;
+    border-radius: .5rem;
+    display: block;
+    align-content: center;
+    background-color: #e9ecef;
+
+}
+
+.contactForm {
+
+    font-family: 'Permanent Marker', cursive;
+    padding: 1rem;
+    box-shadow: 2px 2px 12px 0 rgba(0, 0, 80, 0.2);
+    color: rgba(0, 0, 80, 1);
+    width: 50%;
+    margin: 2rem auto 2rem auto;
+    border-radius: .5rem;
+    display: inline-flex;
+    align-content: center;
+    background-color: #e9ecef;
+
+
+}
+
+.h5 {
+
+    color:orangered;
+}
